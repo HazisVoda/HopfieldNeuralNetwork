@@ -1,5 +1,5 @@
 .venv/
 __pycache__/
 data/
-results_fixed/
-results_mnist_csv/
+figures/
+hopfield_model.pkl
