@@ -374,8 +374,8 @@ def main():
     np.random.seed(42)
     
     # Configuration
-    PATTERNS_TO_USE = ['H', 'X', 'O']
-    SAMPLES_PER_PATTERN = 2
+    PATTERNS_TO_USE = ['X', 'I']
+    SAMPLES_PER_PATTERN = 1
     NOISE_LEVEL = 0.15
     
     print("\n1.Creating patterns...")
